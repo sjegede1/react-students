@@ -9,14 +9,17 @@
   border: solid grey;
   margin: 1em;
   margin-inline: auto;
+  padding: 0.5em;
 }
 
 .student-info {
   max-width: 400px;
+  padding: 0.5em;
 }
 
 .scores {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  margin: 1em;
 }
